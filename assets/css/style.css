@@ -641,7 +641,9 @@ img {
 .welcome-area {
   background: rgba(0, 0, 0, 0) url("../img/bg/welcome-bg.jpg") no-repeat scroll center center/cover;
 }
-
+.download-area {
+  background: rgba(0, 0, 0, 0) url("../img/bg/download-bg.jpg") no-repeat fixed center center/cover;
+}
 /* ******************************
 :: SCROLL TO TOP AREA CSS
 ****************************** */
